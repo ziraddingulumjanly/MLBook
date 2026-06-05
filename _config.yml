@@ -1,0 +1,31 @@
+title: Data Science and Machine Learning Projects
+author: Ziraddin Gulumjanli
+logo: cover.png
+
+execute:
+  execute_notebooks: "off"
+
+repository:
+  url: https://github.com/ziraddingulumjanly/ML-projects
+  branch: main
+
+html:
+  use_repository_button: true
+  use_issues_button: false
+  use_edit_page_button: false
+  favicon: ""
+
+launch_buttons:
+  notebook_interface: "jupyterlab"
+
+sphinx:
+  config:
+    html_show_copyright: false
+
+exclude_patterns:
+  - README.md
+  - README_JUPYTER_BOOK_SETUP.md
+  - data/**
+  - models/**
+  - outputs/**
+  - .github/**

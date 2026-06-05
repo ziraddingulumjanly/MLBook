@@ -1,0 +1,17 @@
+jupyter-book<2
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+statsmodels
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+umap-learn
+ucimlrepo
+python-dotenv
+snowflake-connector-python
+joblib

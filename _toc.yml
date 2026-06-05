@@ -1,0 +1,37 @@
+format: jb-book
+root: intro
+
+parts:
+  - caption: Classification Projects
+    chapters:
+      - file: Classification/project_BRFSS_Heart_Disease
+      - file: Classification/project_ChurnClassImbalanceMethods
+      - file: Classification/project_ForestCoverType_Xgboost
+      - file: Classification/project_ForestCoverType_Xgboost_clean
+      - file: Classification/project_IncomeClassClassifcation
+      - file: Classification/project_PenguinClassification
+      - file: Classification/project_ZooAnimalClassification
+
+  - caption: Clustering and Anomaly Detection
+    chapters:
+      - file: Clustering/project_FraudDetection_CreditCard
+      - file: Clustering/project_HumanActivityRecognition
+
+  - caption: Regression Projects
+    chapters:
+      - file: Regression/project_NYC_taxi_fare_prediction
+      - file: Regression/project_Oceanographic
+
+  - caption: Statistical Analysis Projects
+    chapters:
+      - file: Statistics/project_IBMEmployeeAtrition
+      - file: Statistics/project_SleepScore
+      - file: Statistics/project_StudentsPerfomance
+      - file: Statistics/project_WholesaleCustomers
+      - file: Statistics/project_statistic_tests
+
+  - caption: Tutorials and Practice
+    chapters:
+      - file: Tutorial/hyperparametertuning
+      - file: Tutorial/numpy
+      - file: Tutorial/pandas
