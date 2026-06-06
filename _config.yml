@@ -1,5 +1,6 @@
 title: Data Science and Machine Learning Projects
 author: Ziraddin Gulumjanli
+copyright: "2026"
 logo: cover.png
 
 execute:
@@ -20,7 +21,7 @@ launch_buttons:
 
 sphinx:
   config:
-    html_show_copyright: false
+    html_show_copyright: true
 
 exclude_patterns:
   - README.md

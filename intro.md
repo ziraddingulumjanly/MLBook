@@ -10,7 +10,6 @@ This book brings together applied data science, machine learning, statistical an
 - **Regression projects** focused on prediction, validation, error analysis, and practical modeling workflows.
 - **Clustering and anomaly detection projects** using unsupervised learning, dimensionality reduction, and fraud detection methods.
 - **Statistical analysis projects** using hypothesis testing, non-parametric tests, assumption checks, and interpretation.
-- **Tutorial notebooks** for Python, pandas, NumPy, and hyperparameter tuning practice.
 
 ## How to read this book
 
