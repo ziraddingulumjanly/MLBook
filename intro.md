@@ -1,4 +1,4 @@
-# Data Science and Machine Learning Projects
+# Intro
 
 Welcome to my project portfolio in Jupyter Book format.
 
@@ -10,9 +10,6 @@ This book brings together applied data science, machine learning, statistical an
 - **Regression projects** focused on prediction, validation, error analysis, and practical modeling workflows.
 - **Clustering and anomaly detection projects** using unsupervised learning, dimensionality reduction, and fraud detection methods.
 - **Statistical analysis projects** using hypothesis testing, non-parametric tests, assumption checks, and interpretation.
+- **ML Concepts [New]** contains specific methodologies of machine learning.
 
-## How to read this book
 
-Use the sidebar to move between project categories. Each notebook is preserved as a portfolio page, with its markdown explanations, code cells, tables, plots, and saved outputs rendered as a static HTML page.
-
-The notebooks are not executed during the website build. This keeps the deployment stable, protects local credentials, and allows the website to display the saved outputs already stored in each notebook.
