@@ -30,8 +30,7 @@ parts:
       - file: Statistics/project_WholesaleCustomers
       - file: Statistics/project_statistic_tests
 
-  - caption: Tutorials and Practice
+  - caption: Concepts
     chapters:
-      - file: Tutorial/hyperparametertuning
-      - file: Tutorial/numpy
-      - file: Tutorial/pandas
+      - file: Concepts/loss_funcs
+
