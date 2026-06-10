@@ -4,6 +4,13 @@ Welcome to my project portfolio in Jupyter Book format.
 
 This book brings together applied data science, machine learning, statistical analysis, and tutorial notebooks in one clean HTML website. The projects cover classification, regression, clustering, anomaly detection, statistical testing, model evaluation, feature engineering, and practical scikit-learn workflows.
 
+
+```{image} cover.png
+:alt: Machine Learning Portfolio Cover
+:width: 800px
+:align: center
+```
+
 ## What this portfolio includes
 
 - **Classification projects** using real-world tabular datasets, model comparison, threshold tuning, class imbalance handling, and performance evaluation.
